@@ -1,7 +1,5 @@
 # Payu Shape Key
 
-[English](./README_en.md) | 日本語
-
 BlenderでMMDモデルのシェイプキー（モーフ）を効率的に管理するためのアドオンです。
 
 ## 💫 こんな時に便利！
