@@ -2,6 +2,9 @@
 
 BlenderでMMDモデルのシェイプキー（モーフ）を効率的に管理するためのアドオンです。
 
+<img width="239" alt="image" src="https://github.com/user-attachments/assets/bc092b7a-eecc-4b63-85d4-30c4e2a5df87" />
+
+
 ## 💫 こんな時に便利！
 
 例）顔とアイラインを別オブジェクトに分けている場合：
@@ -12,6 +15,9 @@ BlenderでMMDモデルのシェイプキー（モーフ）を効率的に管理�
 4. 完成！アイラインは左右に分割され、ウィンクも自動搭載。シェイプキーを動かすと顔も一緒に動きます
 
 ## ✨ 主な機能
+
+<img width="227" alt="image" src="https://github.com/user-attachments/assets/f35e266b-9932-4a31-9be5-e5fe8699ea63" />
+
 
 ### 🔄 シェイプキーの左右分割
 - **単一のシェイプキー分割**
