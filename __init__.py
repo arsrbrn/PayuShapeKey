@@ -3,8 +3,8 @@ from bpy.types import Panel, Operator
 import mathutils
 
 bl_info = {
-    "name": "Shape Key Tools",
-    "author": "Claude",
+    "name": "Payu Shape Key",
+    "author": "Payu",
     "version": (1, 0),
     "blender": (2, 80, 0),
     "location": "Properties > Data > Shape Keys",
