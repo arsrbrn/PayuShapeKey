@@ -2,7 +2,8 @@
 
 BlenderでMMDモデルのシェイプキー（モーフ）を効率的に管理するためのアドオンです。
 
-<img width="239" alt="image" src="https://github.com/user-attachments/assets/bc092b7a-eecc-4b63-85d4-30c4e2a5df87" />
+<img width="236" alt="image" src="https://github.com/user-attachments/assets/4e76ff73-faee-45bd-a416-1a3e532d5ba2" />
+
 
 
 ## 💫 こんな時に便利！
