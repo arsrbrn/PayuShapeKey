@@ -2,7 +2,8 @@
 
 BlenderでMMDモデルのシェイプキー（モーフ）を効率的に管理するためのアドオンです。
 
-<img width="236" alt="image" src="https://github.com/user-attachments/assets/4e76ff73-faee-45bd-a416-1a3e532d5ba2" />
+<img width="240" alt="image" src="https://github.com/user-attachments/assets/c39d6cfd-e399-40eb-93c8-72eec28491f3" />
+
 
 
 
@@ -28,7 +29,7 @@ BlenderでMMDモデルのシェイプキー（モーフ）を効率的に管理�
   - まばたき→ウィンク2/ｳｨﾝｸ2右、笑い→ウィンク/ウィンク右に自動変換
   - 既に分割済みのシェイプキーは自動スキップ
 - **ミラーモディファイア対応**
-  - ミラー適用済みでも自動で処理
+  - ミラーモディファイアがあっても自動で適用
   - Auto Mirror（アドオン）で再ミラー＆一括統合で実行前を再現できます
 
 ### 🎯 シェイプキーの統合
